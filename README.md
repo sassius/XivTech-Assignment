@@ -1,6 +1,7 @@
 # CryptoTracker - Real-Time Cryptocurrency Price Tracker
 
-![CryptoTracker Demo](https://i.imgur.com/demo.gif)
+![CryptoTracker Demo]
+https://xiv-tech-assignment-git-main-samarjeets-projects.vercel.app/
 
 CryptoTracker is a real-time cryptocurrency price tracking application built with React and Redux Toolkit. It provides live updates of cryptocurrency prices, market caps, and trends with a beautiful, responsive interface.
 
