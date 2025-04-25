@@ -16,7 +16,7 @@ const Header: React.FC = () => {
         
         <div className="flex items-center mt-2 md:mt-0">
           <a 
-            href="https://github.com/sassius" 
+            href="https://github.com/sassius/XivTech-Assignment" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-gray-400 hover:text-white transition-colors text-sm"
